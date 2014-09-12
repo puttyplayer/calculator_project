@@ -1,3 +1,4 @@
+puts "This program will find the slope of a point"
 puts "Please enter the first x value of your point"
 xOne = gets.to_f
 
