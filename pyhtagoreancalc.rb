@@ -1,3 +1,4 @@
+puts "This program will find an unknown side of a right triangle"
 puts "If you are finding a leg, write '1' if you are finding the hypotenuse
 type '2'"
 choice=gets.to_i
