@@ -1,3 +1,4 @@
+puts "This program will find the sales tax you have to pay"
 puts "What is the sales tax in your state? Please write without percent sign. Ex5.5"
 tax=gets.to_i
 
