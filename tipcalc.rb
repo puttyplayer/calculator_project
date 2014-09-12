@@ -1,3 +1,4 @@
+puts "This program will tell you how much to tip"
 puts "How much was your dinner bill?"
 price = gets.to_f
 
