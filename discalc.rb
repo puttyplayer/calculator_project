@@ -1,3 +1,4 @@
+puts "This program will find the distance between two points for you"
 puts "Please enter the number that is x1"
 x1 = gets.to_i
 
